@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Selamat Datang</title>
+    <title>selamat datang</title>
 </head>
 <body>
-    <p>Selamat Datang</p>
+    <p>selamat datang di sini</p>
 </body>
 </html>
