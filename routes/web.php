@@ -20,4 +20,5 @@ Route::get('/', function () {
 Route::get('/', function () {
     return view('welcome2');
     return view('user');
+    return view('kategori');
 });
